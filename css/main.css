@@ -1,0 +1,31 @@
+/*variables*/
+body {
+  height: 500px;
+  width: 1100px;
+  padding: 20px; }
+
+nav {
+  background-color: black;
+  width: 200px; }
+  nav ul {
+    list-style-type: square; }
+  nav li {
+    font-family: "copperplate";
+    color: white; }
+
+h1 {
+  background: red;
+  text-align: center;
+  font-family: "copperplate"; }
+
+p {
+  background: red;
+  font-family: "copperplate";
+  width: 650px; }
+
+a {
+  font-family: sans-serif; }
+
+/*extend = @extend .body or @extend .p , etc */
+
+/*# sourceMappingURL=main.css.map */
